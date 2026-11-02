@@ -1,0 +1,12 @@
+[project]
+name = "reglens"
+version = "0.1.0"
+description = "Q&A over Indonesian financial regulations (OJK) with citations and an evaluation suite"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+markers = [
+    "todo: tests for parts Dave implements; they fail until that part is written",
+]

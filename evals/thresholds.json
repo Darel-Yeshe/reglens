@@ -1,0 +1,7 @@
+{
+  "retrieval_hit_rate": 0.75,
+  "citation_accuracy": 0.75,
+  "refusal_accuracy": 0.75,
+  "faithfulness": 0.9,
+  "correctness": 0.75
+}

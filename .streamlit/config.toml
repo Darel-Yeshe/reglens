@@ -1,0 +1,10 @@
+# Streamlit settings for RegLens (read automatically by `streamlit run`)
+
+[server]
+# Don't watch files for changes: the watcher scans every loaded library and crashes
+# on transformers' optional vision modules ("No module named 'torchvision'").
+# Downside: after editing the app, refresh the browser page yourself.
+fileWatcherType = "none"
+
+[browser]
+gatherUsageStats = false

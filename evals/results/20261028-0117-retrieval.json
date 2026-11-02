@@ -1,0 +1,175 @@
+{
+  "settings": {
+    "top_k": 5,
+    "translate_queries": true,
+    "lampiran_penalty": 0.03
+  },
+  "metrics": {
+    "questions": 26,
+    "retrieval_hit_rate": 0.864,
+    "mrr": 0.658,
+    "answer_rate": null,
+    "citation_accuracy": null,
+    "refusal_accuracy": null,
+    "correctness": null,
+    "faithfulness": null
+  },
+  "results": [
+    {
+      "id": "q001",
+      "in_scope": true,
+      "question": "Berapa lama PUJK wajib menyelesaikan pengaduan konsumen yang disampaikan secara lisan?",
+      "rank": 5
+    },
+    {
+      "id": "q002",
+      "in_scope": true,
+      "question": "Berapa lama batas waktu PUJK menyelesaikan pengaduan tertulis, dan bisakah diperpanjang?",
+      "rank": 1
+    },
+    {
+      "id": "q003",
+      "in_scope": true,
+      "question": "How long does a financial service provider have to resolve a written consumer complaint?",
+      "rank": 3
+    },
+    {
+      "id": "q004",
+      "in_scope": true,
+      "question": "Kapan PUJK harus memberi tahu konsumen tentang perubahan ketentuan produk atau layanan?",
+      "rank": 1
+    },
+    {
+      "id": "q005",
+      "in_scope": true,
+      "question": "Kapan batas waktu penyampaian laporan hasil penilaian sendiri pelindungan konsumen ke OJK?",
+      "rank": null
+    },
+    {
+      "id": "q006",
+      "in_scope": true,
+      "question": "How often must staff in the consumer protection unit receive training?",
+      "rank": 2
+    },
+    {
+      "id": "q007",
+      "in_scope": true,
+      "question": "Berapa lama waktu PUJK untuk mengajukan keberatan atas sanksi administratif dari OJK?",
+      "rank": 1
+    },
+    {
+      "id": "q008",
+      "in_scope": true,
+      "question": "Berapa lama bank umum wajib melaporkan kejadian fraud yang berdampak signifikan kepada OJK?",
+      "rank": 1
+    },
+    {
+      "id": "q009",
+      "in_scope": true,
+      "question": "How often must a financial institution provide anti-fraud education to internal and external parties?",
+      "rank": 1
+    },
+    {
+      "id": "q010",
+      "in_scope": true,
+      "question": "Jika strategi anti fraud diubah, kapan perubahan itu harus disampaikan ke OJK?",
+      "rank": 1
+    },
+    {
+      "id": "q011",
+      "in_scope": true,
+      "question": "Berapa lama penyidik OJK harus memberi jawaban atas permohonan penyelesaian pelanggaran?",
+      "rank": 1
+    },
+    {
+      "id": "q012",
+      "in_scope": true,
+      "question": "Within what period must the compensation agreed in a violation settlement be fulfilled?",
+      "rank": 4
+    },
+    {
+      "id": "q013",
+      "in_scope": true,
+      "question": "Melalui media apa saja OJK mengumumkan daftar konsumen sebelum mengajukan gugatan?",
+      "rank": 2
+    },
+    {
+      "id": "q014",
+      "in_scope": true,
+      "question": "Berapa lama konsumen dapat menyampaikan dokumen pendukung untuk gugatan OJK?",
+      "rank": 1
+    },
+    {
+      "id": "q015",
+      "in_scope": true,
+      "question": "Apa syarat minimal anggota unit kerja khusus APU PPT di PJK?",
+      "rank": 1
+    },
+    {
+      "id": "q016",
+      "in_scope": true,
+      "question": "Through which mechanisms may a financial service provider verify a prospective customer's identity?",
+      "rank": null
+    },
+    {
+      "id": "q017",
+      "in_scope": true,
+      "question": "Seberapa sering PUJK wajib melaksanakan kegiatan peningkatan literasi keuangan?",
+      "rank": 5
+    },
+    {
+      "id": "q018",
+      "in_scope": true,
+      "question": "Kapan laporan rencana kegiatan literasi keuangan disampaikan oleh PUJK yang tidak wajib menyusun rencana bisnis?",
+      "rank": 1
+    },
+    {
+      "id": "q019",
+      "in_scope": true,
+      "question": "Berapa lama waktu bagi PUJK dan penyampai informasi untuk menyesuaikan kerja sama pemasaran yang sudah ada dengan POJK 6 Tahun 2026?",
+      "rank": 1
+    },
+    {
+      "id": "q020",
+      "in_scope": true,
+      "question": "Kapan batas waktu penyampaian laporan layanan pengaduan semesteran?",
+      "rank": 1
+    },
+    {
+      "id": "q021",
+      "in_scope": true,
+      "question": "Berapa lama OJK menetapkan hasil wawancara kemampuan dan kepatutan calon pengurus LAPS SJK?",
+      "rank": 2
+    },
+    {
+      "id": "q022",
+      "in_scope": true,
+      "question": "Kapan rencana kerja dan anggaran tahunan LAPS harus disampaikan ke OJK?",
+      "rank": null
+    },
+    {
+      "id": "q023",
+      "in_scope": false,
+      "question": "Berapa harga bitcoin hari ini?",
+      "rank": null
+    },
+    {
+      "id": "q024",
+      "in_scope": false,
+      "question": "What is the corporate income tax rate in Indonesia?",
+      "rank": null
+    },
+    {
+      "id": "q025",
+      "in_scope": false,
+      "question": "Berapa suku bunga acuan Bank Indonesia bulan ini?",
+      "rank": null
+    },
+    {
+      "id": "q026",
+      "in_scope": false,
+      "question": "How do I apply for a Singapore employment pass?",
+      "rank": null
+    }
+  ]
+}
